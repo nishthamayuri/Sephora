@@ -1,0 +1,43 @@
+header{
+    background-color: whitesmoke;
+    padding: 7px;
+
+}
+#icon{
+margin-left:1200px; 
+
+}
+nav{
+    background-color: whitesmoke;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    
+}
+li{
+    display: inline-block;
+    padding-right: 45px;
+    
+
+}
+#section1{
+    background-color:black;
+}
+#banner1{
+    width:100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+#section2{
+    text-align: center;
+}
+#sephoraimg{
+    margin-right: 60px;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
